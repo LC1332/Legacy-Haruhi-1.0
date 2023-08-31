@@ -1,0 +1,7 @@
+Riddle:「We’re going to talk now,」
+:Riddle action
+Harry:「How did Ginny get like this?」
+Riddle:「Well, that’s an interesting question, And quite a long story. I suppose the real reason Ginny Weasley’s like this is because she opened her heart and spilled all her secrets to an invisible stranger.」
+Harry:「What are you talking about?」
+:Riddle action
+Harry:「What d’you mean?」

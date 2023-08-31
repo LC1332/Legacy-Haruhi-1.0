@@ -1,0 +1,5 @@
+Harry:「“Can you fly it?”」
+Ron:「“No problem,” said Ron, wheeling his trolley around to face the exit. “C’mon, let’s go. If we hurry we’ll be able to follow the Hogwarts Express —”」
+:Harry action
+:Ron action
+Ron:「“Check that no one’s watching,” said Ron, starting the ignition with another tap of his wand. Harry stuck his head out of the window: Traffic was rumbling along the main road ahead, but their street was empty.」

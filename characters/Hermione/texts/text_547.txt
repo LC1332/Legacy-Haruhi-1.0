@@ -1,0 +1,4 @@
+Hagrid:「Oi! Git away from him! He’ll have yer fingers — oh. It’s yeh lot.」
+:Fang action
+:Hagrid action
+Hermione:「Oh dear!」

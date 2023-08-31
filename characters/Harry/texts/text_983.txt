@@ -1,0 +1,9 @@
+Gaunt:「You disgusting little Squib, you filthy little blood traitor!」
+Harry:「No!」
+Ogden:「No!」
+:Ogden spell to Gaunt
+:Morfin action
+:Ogden action
+:Dumbledore action
+Harry:「What happened to the girl in the cottage? Merope, or whatever her name was?」
+Harry:「Marvolo?」

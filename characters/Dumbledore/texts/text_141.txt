@@ -1,0 +1,15 @@
+Mrs. Cole:「Are you family?」
+Dumbledore:「No, I am a teacher」
+Dumbledore:「I have come to offer Tom a place at my school」
+Mrs. Cole:「And how come you’re interested in Tom?」
+Dumbledore:「We believe he has qualities we are looking for」
+Mrs. Cole:「Who registered him? His parents?」
+:Mrs. Cole action
+:Dumbledore action
+Dumbledore:「Here」
+:Mrs. Cole action
+Mrs. Cole:「That seems perfectly in order」
+:Mrs. Cole action
+:Mrs. Cole action
+Mrs. Cole:「Er — may I offer you a glass of gin?」
+Dumbledore:「Thank you very much」

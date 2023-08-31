@@ -1,0 +1,5 @@
+Hagrid:「We’re nearly there, Harry, we’ve nearly made it!」
+Harry:「The scar on his forehead burned like fire; as a Death Eater appeared on either side of the bike, two Killing Curses missed Harry by millimeters, cast from behind — And then Harry saw him. Voldemort was flying like smoke on the wind, without broomstick or thestral to hold him, his snakelike face gleaming out of the blackness, his white fingers raising his wand again —」
+:Hagrid action
+:Harry action
+Harry:「Hagrid? Hagrid, talk to me —」

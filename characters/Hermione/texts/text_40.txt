@@ -1,0 +1,4 @@
+Ron:「I think we’ll be able to pull the door open, Want to go first, Hermione?」
+Hermione:「No, I don’t!」
+:Ron action
+Hermione:「What can you see?」

@@ -1,0 +1,7 @@
+:Harry action
+Luna:「“We should close his eyes.”」
+:Bill action
+:Hermione action
+:Luna action
+:Harry action
+Luna:「“I think we ought to say something,” piped up Luna. “I’ll go first, shall I?”」

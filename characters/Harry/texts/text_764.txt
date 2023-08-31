@@ -1,0 +1,11 @@
+Angelina:「When you’re ready, we’re going to go straight down to the pitch, check out conditions and change.」
+Harry:「We’ll be there in a bit, Ron’s just got to have some breakfast.」
+Hermione:「Don’t let Ron see what’s on those Slytherins’ badges.」
+:Hermione action
+Ron:「Good luck, Ron」
+Hermione:「And you, Harry —」
+:Ron action
+:Harry action
+:Ron action
+:Angelina action
+Harry:「We do」

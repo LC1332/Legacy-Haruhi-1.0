@@ -1,0 +1,5 @@
+Ron:「Thanks a million, Can I borrow your quill for the conclusion?」
+:Harry action
+:Hermione action
+:Ron action
+Harry:「Kreacher!」

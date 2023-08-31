@@ -1,0 +1,4 @@
+Hermione:「The thing is, that — er — boy who was in here just now, Draco Malfoy, well, he’s a friend of mine, and I want to get him a birthday present, but if he’s already reserved anything, I obviously don’t want to get him the same thing, so . . . um . . .」
+Borgin:「Out, Get out!」
+:Hermione action
+Ron:「Worth a try, but you were a bit obvious —」

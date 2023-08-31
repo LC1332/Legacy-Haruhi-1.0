@@ -1,0 +1,12 @@
+Hermione:「what-did-I-tell-you?」
+Harry:「No thanks, I don’t like it much.」
+:Romilda thrusting a box into his hands
+Harry:「Oh — right — thanks a lot.」
+Hermione:「Well, good night, Harry.」
+Harry:「there was only one more day of lessons to struggle through, plus Slughorn’s party, after which he and Ron would depart together for the Burrow.」
+:Ron action
+:Hermione action
+:Harry action
+Hermione:「Oh yes, thank you, Harry. Well, I’d better get going. . . .」
+Luna:「She’s a bit upset, I thought at first it was Moaning Myrtle in there, but it turned out to be Hermione. She said something about that Ron Weasley. . . .」
+Harry:「Yeah, they’ve had a row.」

@@ -1,0 +1,6 @@
+Harry:「“And from now on, I don’t care if my tea leaves spell die, Ron, die — I’m just chucking them in the bin where they belong.”」
+:Harry action
+Hermione:「“Well, I think I’ve done all right in Arithmancy,” she said」
+:Harry action
+:Ron action
+Hermione:「“Just time for a quick look over our star charts before dinner, then . . .”」

@@ -1,0 +1,4 @@
+Hermione:「“Of course he does,” said Hermione quietly. “Don’t let Malfoy get to you, Ron —”」
+:Ron action
+:Ron action
+Harry:「“Hi, Hagrid!”」

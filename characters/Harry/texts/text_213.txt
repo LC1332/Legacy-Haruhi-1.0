@@ -1,0 +1,12 @@
+Mrs. Weasley:「Do take care, won’t you, Harry?」
+:Mrs. Weasley action
+:Mr. Weasley action
+Harry:「There’s something I’ve got to tell you before you leave —」
+Mr. Weasley:「It’s all right, Mr. Weasley, I already know.」
+Harry:「You know? How could you know?」
+Harry:「No — honestly, it’s okay. This way, you haven’t broken your word to Fudge and I know what’s going on.」
+Mr. Weasley:「Harry, I knew you were, well, made of stronger stuff than Fudge seems to think, and I’m obviously pleased that you’re not scared, but —」
+Mrs. Weasley:「Arthur, what are you doing? It’s about to go!」
+Mr. Weasley:「He’s coming, Molly!」
+Mr. Weasley:「Listen, I want you to give me your word —」
+Harry:「— that I’ll be a good boy and stay in the castle?」

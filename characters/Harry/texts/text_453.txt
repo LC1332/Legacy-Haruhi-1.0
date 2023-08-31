@@ -1,0 +1,5 @@
+Hermione:「said, “Come on, Harry, we’ll go back to the common room . . . his fan club’ll be here in a moment, twittering away. . . .”」
+:Harry action
+:Harry action
+:Harry action
+Harry:「knew he couldn’t do it. It was the only place he had ever been happy」

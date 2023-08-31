@@ -1,0 +1,6 @@
+Ron:「nodded but did not speak」
+Harry:「You just need some breakfast. C’mon.」
+:- action
+:- action
+Narrator:Ron think "I must’ve been mental to do this. Mental."
+Harry:「Don’t be thick. You’re going to be fine. It’s normal to be nervous.」

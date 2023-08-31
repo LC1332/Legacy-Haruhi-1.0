@@ -1,0 +1,8 @@
+:Hermione action
+Dumbledore:「Merry Christmas! As there are so few of us, it seemed foolish to use the House tables. . . . Sit down, sit down!」
+Harry:「Crackers!」
+:Snape action
+:Ron action
+:Snape action
+Dumbledore:「Dig in!」
+Dumbledore:「this is a pleasant surprise!」

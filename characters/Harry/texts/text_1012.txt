@@ -1,0 +1,6 @@
+Hermione:「Hand that over, Harry. It says we’re supposed to puncture them with something sharp. . . .」
+:Harry action
+:Harry action
+:Harry action
+Harry:「had an inkling that this might happen sooner or later」
+Harry:「not sure how he felt about it」

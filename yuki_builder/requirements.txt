@@ -1,0 +1,20 @@
+# py 3.9 required
+openai-whisper==20230314
+torch
+ffmpeg-python~=0.2.0
+hanziconv 
+numpy
+noisereduce
+
+
+# bgm remover with uvr5
+ass==0.5.4
+pysubs2==1.6.1
+librosa 
+chardet==5.1.0
+pysrt==1.1.2
+pandas
+audioread
+onnxruntime
+tqdm>=4.63.1
+soundfile>=0.12.1

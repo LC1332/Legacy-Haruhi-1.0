@@ -1,0 +1,6 @@
+Harry:「“Okay,” he said.」
+:Ron action
+Ron:「“Let’s go,” said Ron’s voice from his right.」
+:Harry action
+:Ron action
+Ron:「“Uh-oh,” said Ron, jabbing at the Invisibility Booster. “It’s faulty —”」

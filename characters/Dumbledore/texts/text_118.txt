@@ -1,0 +1,8 @@
+:Harry action
+Dumbledore:「Judging by your look of stunned disbelief, Harry did not warn you that I was coming. However, let us assume that you have invited me warmly into your house. It is unwise to linger overlong on doorsteps in these troubled times.」
+Dumbledore:「It is a long time since my last visit. I must say, your agapanthus are flourishing.」
+:Vernon Dursley action
+:Harry action
+Dumbledore:「Ah, good evening Harry. Excellent, excellent.」
+:Petunia action
+Dumbledore:「Albus Dumbledore. We have corresponded, of course. And this must be your son, Dudley?」

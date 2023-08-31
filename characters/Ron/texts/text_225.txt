@@ -1,0 +1,3 @@
+Fred:「Yeah. What was it?」
+:Fred action
+Ron:「How’re you doing, Harry?」

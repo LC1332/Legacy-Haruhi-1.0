@@ -1,0 +1,4 @@
+Moody:「praised Harry for fighting the curse」
+:Harry action
+:Ron action
+Ron:「expressed annoyance at Moody's behavior and paranoia」

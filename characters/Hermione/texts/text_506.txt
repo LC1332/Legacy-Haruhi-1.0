@@ -1,0 +1,7 @@
+Ron:「I’m here, mate.」
+Hermione:「I don’t know, but whatever it was, it was dangerous,」
+:Hermione action
+Hermione:「Get out of the way!」
+:Harry action
+:Harry action
+Hermione:「Right, we’re leaving that room,」
